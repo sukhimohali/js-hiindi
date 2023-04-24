@@ -1,2 +1,2 @@
-# js-hiindi
+# js-hindi
 js-hindi-stepbystep
